@@ -1,2 +1,2 @@
 # BOPNN
-Classification Model using Bagging and kNN in Discriminant Subspaces
+R package for fitting classification models using bagging and kNN in discriminant subspaces
